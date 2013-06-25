@@ -21,6 +21,7 @@ import android.view.View;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+//파일업로드 안드로이드 모듈 액티비티
 public class MainActivity extends Activity {
    
 	ImageView imageView;
